@@ -6,4 +6,9 @@ export class Duck {
   quack() {
     console.log(`${name} is quacking!`);
   }
+
+  walk() {
+    console.log(`${name} is walking!`);
+  }
+
 }
