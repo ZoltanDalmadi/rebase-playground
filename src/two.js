@@ -11,4 +11,8 @@ export class Duck {
     console.log(`${name} is walking!`);
   }
 
+  fly() {
+    console.log(`${name} is flying!`);
+  }
+
 }
